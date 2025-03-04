@@ -1,0 +1,10 @@
+hr {
+    margin: 0;
+}
+
+.rodape {
+    background-color: var(--branco-principal);
+    padding: 2em 0;
+    display: flex;
+    justify-content: center;
+}
